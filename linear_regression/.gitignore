@@ -1,0 +1,16 @@
+# emacs editor backup
+*~
+
+# scratch files don't go
+scratch*
+
+# files to stay here
+local
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+
+#Ipython
+.ipynb_checkpoints/
+
